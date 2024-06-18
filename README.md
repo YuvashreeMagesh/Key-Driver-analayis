@@ -135,3 +135,6 @@ Used `matplotlib`, `seaborn` for or visualizing results.
 2. **SVM for Sentiment Classification:** SVM is effective for text sentiment classification and should be considered for similar tasks.
 3. **VADER for Detailed Sentiment Analysis:** VADER is useful for capturing nuanced sentiments in text, particularly in social media and review contexts.
 
+### Conclusion
+
+This project analyzed IMDb movie reviews using advanced NLP techniques. I successfully extracted keywords using TF-IDF and TextRank, combining their strengths for comprehensive insights. Sentiment analysis with SVM and VADER provided accurate sentiment classification and nuanced sentiment scoring. Recommendations include leveraging hybrid keyword extraction and SVM for effective sentiment analysis in similar datasets, with potential for further refinement through preprocessing adjustments and model optimization.
