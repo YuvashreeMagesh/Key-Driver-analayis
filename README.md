@@ -1,13 +1,8 @@
 
 # KEY DRIVER ANALYSIS ON IMDb MOVIE REVIEWS 
-**PROBLEM NUMBER - 1**
 
 
-NAME : YUVASHREE M
 
-REG.NO: 20MIC0150
-
-EMAIL : yuvamagesh28@gmail.com
 ## Introduction
 This report outlines the steps taken to preprocess the IMDb movie review dataset, extract keywords using two algorithms (TF-IDF and TextRank), combine these algorithms, and perform sentiment analysis using SVM and VADER. The methodology, findings, and recommendations are summarized below.
 
